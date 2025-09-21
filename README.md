@@ -49,7 +49,7 @@ OMRChecker/
 
 Clone the repo
 
-git clone https://github.com/your-username/OMRChecker.git
+git clone https://github.com/ay8112/OMRChecker.git
 cd OMRChecker
 
 
